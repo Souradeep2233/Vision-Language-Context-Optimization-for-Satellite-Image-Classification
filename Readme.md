@@ -1,6 +1,7 @@
 # **Vision-Language Context Optimization for Satellite Image Classification**
 
-This project explores the application of the **Context Optimization (CoOp)** technique using **CLIP** for **satellite image classification**. The training was implemented using the **Dassl (Domain Adaptive Semi-Supervised Learning)** library. 
+This project explores the application of the **Context Optimization (CoOp)** technique using **CLIP** for **satellite image classification**. The training was implemented using the **Dassl (Domain Adaptive Semi-Supervised Learning)** library. The research project was conducted as a part of the IIT Bombay Summer Internship under CSRE Dept. in June, 2024.
+
 This project implements the Context Optimization (CoOp) technique for fine-tuning CLIP models using learnable prompts, attempting to beat SOTA ( State-Of-The-Art)  scores with newer approaches, built on top of the [Dassl](https://github.com/KaiyangZhou/Dassl.pytorch) framework. 
 While we could beat the SOTA in some shots learning, we couldn't in many other specific shots learning\!
 
