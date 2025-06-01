@@ -36,6 +36,8 @@ git clone https://github.com/KaiyangZhou/CoOp.git
 
 cd CoOp
 
+To avoid any kind of symlink issues , get the .zip file from [here](https://drive.google.com/file/d/1hjkr6esTbFqodh0aynzkTAsqYLIuaJn6/view?usp=sharing)
+
 ### **2\. Create Conda Environment**
 
 conda create \-n coop-env python=3.8 \-y
