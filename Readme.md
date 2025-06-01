@@ -20,7 +20,7 @@ While we could beat the SOTA in some shots learning, we couldn't in many other s
 
 ## **🗂️ Dataset**
 
-* **Dataset**: EuroSAT, UC Merced Land Use Dataset
+* **Dataset**: EuroSAT, UC Merced Land Use Dataset , Million Aid
 
 * **Classes**: \[e.g., Forest, Urban, Water, Agriculture\] *(Modify as per your dataset)*
 
